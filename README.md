@@ -43,3 +43,9 @@ Sei que é muita coisa para um único dia, mas a ideia não é que você faça t
 A ideia é que esse é considerado seu dia 1 no mundo .NET, daqui em diante você irá evoluindo "dia a dia" até se tornar um dev .NET pronto para entrar no mercado de trabalho.
 
 Nas próximas lições, você já se sentirá mais à vontade, porque terá seu ambiente prontinho para focar nos exercícios da linguagem de programação e "rodar" seus programas em .NET.
+
+### 🎯 Objetivo do dia 01
+
+* Conhecer a plataforma .NET e todo seu potencial.
+* Executar alguns exemplos práticos.
+* Preparar própria máquina para desenvolver em .NET.
