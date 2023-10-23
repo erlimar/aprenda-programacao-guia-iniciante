@@ -33,6 +33,9 @@ você conhecer o que é o .NET e como ele pode te ajudar a desenvolver aplicativ
    * Instale com pacote para .NET
      - Você saberá que o Visual Studio pode ser usado para programar em qualquer linguagem, e tem inúmeras extensões que você pode instalar separadamente e configurar como preferir.
      - Neste momento como você é um iniciante, basta instalar já com pacote específico para .NET (Procure por ".NET Coding Pack"). Lá você poderá baixar um instalador do Visual Studio Code que já instala o próprio .NET e as extensões que você precisará para programar em .NET
+   * Revise a seção da linguagem C# no Visual Studio Code (https://code.visualstudio.com/docs/languages/csharp)
+   * Revise a seção de .NET no Visual Studio Code (https://code.visualstudio.com/docs/languages/dotnet)
+   * Revise a seção de início rápido para C# no Visual Studio Code (https://code.visualstudio.com/docs/csharp/get-started)
 
 É isso!
 
