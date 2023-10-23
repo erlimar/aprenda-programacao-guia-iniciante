@@ -21,12 +21,13 @@ você conhecer o que é o .NET e como ele pode te ajudar a desenvolver aplicativ
      - Conhecer algumas empresas que usam .NET na vida real, será bom conhecer algumas histórias de clientes
 2. Leia com mais dedicação a documentação para aprender .NET e faça os exercícios
    * (https://dotnet.microsoft.com/pt-br/learn)
-   * Faça o "Tutorial integrado ao navegador
+   * Faça o "Tutorial integrado ao navegador"
    * Crie um aplicativo de "Console"
    * Crie um aplicativo "Web"
    * Os demais não precisa fazer agora, mas fique à vontade se quiser fazer (aqui entra a aplicação de sua coragem)
    * Neste ponto você já deve ter o .NET instalado na máquina (espera-se que você não tenha instalado nenhum editor ou IDE até agora)
-3. Conheça o Visual Studio Code
+3. Desinstale o .NET que você instalou anteriormente (você aprenderá outra forma de instalá-lo novamente)
+4. Conheça o Visual Studio Code
    * https://code.visualstudio.com/learn
    * Leia todos os tópicos dessa página
      - As lições para estudante você pode fazer se preferir, mas não precisa usar seu tempo concluíndo esses tutoriais
